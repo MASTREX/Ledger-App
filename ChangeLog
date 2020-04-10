@@ -1,0 +1,11 @@
+Version 2.0 (changes from Ledger v1.0) -Released on March 14, 2020:
+* Changed whole layout
+* Added two more screen (IndividualAcc and AmountInput)
+* Screen1: Changed Entry button and fixed back button problem
+* Screen1: Now consist of list of users
+* IndividualAcc: For particular user transaction
+* AmountInput: Single txn details input
+
+Version 1.0 -Released on March 13, 2020:
+* Exist theoretically on paper
+* Consist of single screen with one list of every transaction
