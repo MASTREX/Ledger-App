@@ -3,6 +3,7 @@ Version 3.0 (changes from Ledger v2.0) -Released on March 15, 2020:
 * Converted dictionary to a list as when saving in file storage dictionary cannot be retrieved
 * Screen1: Still in dictionary
 * IndividualAcc: Fixed final msg always showing "No Business"
+* Added icon
 
 Version 2.0 (changes from Ledger v1.0) -Released on March 14, 2020:
 * Changed whole layout
