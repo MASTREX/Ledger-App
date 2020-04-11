@@ -1,15 +1,21 @@
+Version 3.5 (changes from Ledger v3.1) -Released on March 16, 2020:
+* Fix screen orientation to portrait
+* Keyboard auto hide
+* Screen1: Fixed back button to close screen
+* IndividualAcc: Fixed screen refreshing after saving new data
+
 Version 3.1 (changes from Ledger v3.0) -Released on March 15, 2020:
 * Small changes to theme style (like screen opening and closing animations and colours)
 
 Version 3.0 (changes from Ledger v2.0) -Released on March 15, 2020:
-* **(Critical)** Storing each transaction in a dictionary and complete data in TinyDB
+* [Critical] Storing each transaction in a dictionary and complete data in TinyDB
 * IndividualAcc: Fixed final msg always showing "No Business"
 * Added icon
 
 Version 2.0 (changes from Ledger v1.0) -Released on March 14, 2020:
 * Changed whole layout
-* **(Critical)** Added two more screen (IndividualAcc and AmountInput)
-* **(Critical)** Storing each transaction in lists and complete data in TinyDB
+* [Critical] Added two more screen (IndividualAcc and AmountInput)
+* [Critical] Storing each transaction in lists and complete data in TinyDB
 * Screen1: Changed Entry button and fixed back button problem
 * Screen1: Now consist of list of users
 * IndividualAcc: For particular user transaction
