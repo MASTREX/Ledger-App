@@ -1,3 +1,10 @@
+Version 5.5 (changes from Ledger v5.0) -Released on April 11, 2020:
+* Fixed permission granting request
+* Screen1: Include an Case Handler for same name users
+* IndividualAcc: Added a button to delete the last transaction
+* Fixing back button working
+* Some bug fixes and layout improvements
+
 Version 5.0 (changes from Ledger v4.6) -Released on March 19, 2020:
 * [Critical] Converted individual dictionaries back to a list as when saving in file storage dictionary cannot be retrieved
 * Added a function to check if data file exist or not on first opening
