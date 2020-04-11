@@ -1,14 +1,15 @@
+Version 3.1 (changes from Ledger v3.0) -Released on March 15, 2020:
+* Small changes to theme style (like screen opening and closing animations and colours)
+
 Version 3.0 (changes from Ledger v2.0) -Released on March 15, 2020:
-* Changed data storage to File than TinyDB due to size limit
-* Converted dictionary to a list as when saving in file storage dictionary cannot be retrieved
-* Screen1: Still in dictionary
+* **(Critical)** Storing each transaction in a dictionary and complete data in TinyDB
 * IndividualAcc: Fixed final msg always showing "No Business"
 * Added icon
 
 Version 2.0 (changes from Ledger v1.0) -Released on March 14, 2020:
 * Changed whole layout
-* Added two more screen (IndividualAcc and AmountInput)
-* Storing each transaction in a dictionary and complete data in TinyDB
+* **(Critical)** Added two more screen (IndividualAcc and AmountInput)
+* **(Critical)** Storing each transaction in lists and complete data in TinyDB
 * Screen1: Changed Entry button and fixed back button problem
 * Screen1: Now consist of list of users
 * IndividualAcc: For particular user transaction
