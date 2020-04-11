@@ -1,3 +1,11 @@
+Version 4.6 (changes from Ledger v3.6) -Released on March 17, 2020:
+* [Critical] Changed data storage to File than TinyDB due to size limit of value in TinyDB
+* Screen1: Changed dictionary to list
+* Screen1: Fixed screen refreshing after saving new data
+* Screen1: Fixed back button to close screen
+* IndividualAcc: Fixed list index zero error
+* Notification for data submission
+
 Version 3.6 (changes from Ledger v3.5) -Released on March 16, 2020:
 * IndividualAcc: Fixed "Wrong paraphrase" msg shown even after cancelling ClearDB notice
 * IndividualAcc: Removed "Close Input" Alert
