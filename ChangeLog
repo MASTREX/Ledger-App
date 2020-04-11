@@ -1,3 +1,8 @@
+Version 5.0 (changes from Ledger v4.6) -Released on March 19, 2020:
+* [Critical] Converted individual dictionaries back to a list as when saving in file storage dictionary cannot be retrieved
+* Added a function to check if data file exist or not on first opening
+* IndividualAcc: Fix Visual Problem
+
 Version 4.6 (changes from Ledger v3.6) -Released on March 17, 2020:
 * [Critical] Changed data storage to File than TinyDB due to size limit of value in TinyDB
 * Screen1: Changed dictionary to list
