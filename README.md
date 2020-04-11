@@ -4,6 +4,9 @@
 >To download lastest version [click here](https://github.com/MASTREX/Ledger-App/raw/master/APKs/Ledger%20v5.0.apk)
 
 For [Changelog](ChangeLog)
+>Note:- * App might falls into errors after an update or when running it for first time. So try clearing app data completely. But rather take backup of data before updating.
+        * Uninstall before installing v4.6 or above. (Do take a backup if required)
+
 
 #### Other Versions
 [Version 4.6](https://github.com/MASTREX/Ledger-App/raw/master/APKs/Ledger%20v4.6.apk)
