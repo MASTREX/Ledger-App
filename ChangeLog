@@ -1,3 +1,14 @@
+To-Do
+* Fix export button when text box is enabled
+
+Version 6.0.1 (changes from Ledger v5.5) -Released on August 13, 2020:
+* Implemented Dictionary again
+* Reduce the numbers of times file is saved
+* Merged two screens
+* Auto time pick
+* Adding export function
+* Modulation
+
 Version 5.5 (changes from Ledger v5.0) -Released on April 11, 2020:
 * Fixed permission granting request
 * Screen1: Include an Case Handler for same name users
